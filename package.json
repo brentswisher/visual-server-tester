@@ -1,0 +1,25 @@
+{
+  "name": "visual-server-tester",
+  "version": "1.0.0",
+  "description": "Automate visually comparing the same page across multiple servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentswisher/visual-server-tester.git"
+  },
+  "author": "Brent Swisher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentswisher/visual-server-tester/issues"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.0",
+    "pixelmatch": "^5.1.0",
+    "rimraf": "^3.0.2"
+  },
+  "devDependencies": {},
+  "homepage": "https://github.com/brentswisher/visual-server-tester#readme"
+}
