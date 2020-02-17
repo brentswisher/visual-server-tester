@@ -5,7 +5,7 @@ This is a small node.js script to compare pages across multiple servers using vi
 ## Installation
 You need node.js installed on your system.
 
-Clone this repository `git clone git@github.com:brentswisher/visual-server-tester/.git` (or clone your own fork)
+Clone this repository `git clone git@github.com:brentswisher/visual-server-tester.git` (or clone your own fork)
 
 `cd visual-server-tester`
 
