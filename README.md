@@ -1,6 +1,6 @@
 # Visual Server Tester
 ## About
-This is a small node.js script to compare pages across multiple servers using visual regression testing through pupetteer. It loops over a set of servers and compares pages against a baseline server by taking sceenshots of both and comparing them with pixelmatch. If differences are found a diff image will be saves and a notice will be logged to the console.
+This is a small node.js script to compare pages across multiple servers using visual regression testing through pupetteer. It loops over a set of servers and compares pages against a baseline server by taking sceenshots of both and comparing them with pixelmatch. If differences are found a diff image will be saved and a notice will be logged to the console.
 
 ## Installation
 You need node.js installed on your system.
